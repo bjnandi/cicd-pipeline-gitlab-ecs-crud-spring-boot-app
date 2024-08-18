@@ -1,17 +1,49 @@
 # CICD Pipeline GitLab ECS CRUD Spring Boot App
 
+Discover how to streamline Java Spring Boot application deployment with a GitLab CI/CD pipeline using AWS ECS and RDS MySQL. This guide will walk through integrating GitLab for continuous integration & delivery.
+
+
 ## Diagram
 [![Implement GitLab CI/CD Pipeline on AWS ECS with RDS MySQL for Java Spring Boot Application
 Java SpringBoot CRUD WebApplication Docker Containerization ContainerizedApps DockerDeployment DockerContainers AWS 
-ECR ECS RDS MySQL EFS CI/CD Pipeline GitLab GitLabCI Zero Downtime TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](https://raw.githubusercontent.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app/main/src/main/resources/static/images/Implement%20GitLab%20CICD%20Pipeline%20on%20AWS%20ECS%20with%20RDS%20MySQL%20for%20Java%20Spring%20Boot%20Application.webp)](https://gitlab.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app "Pipeline GitLab ECS CRUD Spring Boot App")
+ECR ECS RDS MySQL EFS CI/CD Pipeline GitLab GitLabCI Zero Downtime TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](https://raw.githubusercontent.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app/main/src/main/resources/static/images/Implement%20GitLab%20CICD%20Pipeline%20on%20AWS%20ECS%20with%20RDS%20MySQL%20for%20Java%20Spring%20Boot%20Application.webp)](https://gitlab.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app "CICD Pipeline GitLab ECS CRUD Spring Boot App")
+
 
 
 ## Demo
 [![Implement GitLab CI/CD Pipeline on AWS ECS with RDS MySQL for Java Spring Boot Application
 Java SpringBoot CRUD WebApplication Docker Containerization ContainerizedApps DockerDeployment DockerContainers AWS 
-ECR ECS RDS MySQL EFS CI/CD Pipeline GitLab GitLabCI Zero Downtime TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](https://github.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app/blob/main/src/main/resources/static/images/Implement%20GitLab%20CICD%20Pipeline%20on%20AWS%20ECS%20with%20RDS%20MySQL%20for%20Java%20Spring%20Boot%20Application.gif)](https://gitlab.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app "Pipeline GitLab ECS CRUD Spring Boot App")
+ECR ECS RDS MySQL EFS CI/CD Pipeline GitLab GitLabCI Zero Downtime TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](https://github.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app/blob/main/src/main/resources/static/images/Implement%20GitLab%20CICD%20Pipeline%20on%20AWS%20ECS%20with%20RDS%20MySQL%20for%20Java%20Spring%20Boot%20Application.gif)](https://gitlab.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app "CICD Pipeline GitLab ECS CRUD Spring Boot App")
 
 
+
+
+## For more Details
+
+### ⌛ Implement GitLab CI/CD Pipeline on AWS ECS with RDS MySQL for Java Spring Boot Application<br>
+https://medium.com/@bjnandi/implement-gitlab-ci-cd-pipeline-on-aws-ecs-with-rds-mysql-for-java-spring-boot-application-ac5644d6ac38
+
+
+### 📣 Follow & Show Your Support ⭐️
+
+If you found this project helpful, please give it a star! ⭐️ It helps others discover the project and motivates us to continue improving it.
+
+Stay updated with my latest projects and articles:
+
+- **GitHub**: Follow me on [GitHub](https://github.com/bjnandi) to see my latest repositories and contributions.  
+  [![Follow @bjnandi](https://img.shields.io/github/followers/bjnandi?label=Follow%20%40bjnandi&style=social)](https://github.com/bjnandi)
+
+- **Medium**: Follow me on [Medium](https://medium.com/@bjnandi) to read my latest articles and insights.  
+  ![Medium Badge](https://img.shields.io/badge/Medium-Follow%20Me%20on%20Medium-000?logo=medium&style=social)
+
+<br>
+Thank you for your support and interest in my work! <br>
+Happy coding! 💻✨
+<br><br>
+
+**🙏 Special Thanks:** A huge thank you to [@ProjectsAndPrograms](https://github.com/ProjectsAndPrograms) for amazing java base [crud-spring-boot-thymeleaf](https://github.com/ProjectsAndPrograms/crud-spring-boot-thymeleaf) projects!
+
+<hr>
 
 ## crud-spring-boot-thymeleaf
  Simple crud application to perform basic tasks, that we have to know while learning spring boot.Best practice for beginners.
