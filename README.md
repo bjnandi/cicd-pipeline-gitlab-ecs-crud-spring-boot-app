@@ -1,9 +1,11 @@
 # CICD Pipeline GitLab ECS CRUD Spring Boot App
 [![Implement GitLab CI/CD Pipeline on AWS ECS with RDS MySQL for Java Spring Boot Application
 Java SpringBoot CRUD WebApplication Docker Containerization ContainerizedApps DockerDeployment DockerContainers AWS 
-ECR ECS RDS MySQL EFS CI/CD Pipeline GitLab GitLabCI Zero Downtime TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](![image-url](https://raw.githubusercontent.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app/main/src/main/resources/static/images/Implement%20GitLab%20CICD%20Pipeline%20on%20AWS%20ECS%20with%20RDS%20MySQL%20for%20Java%20Spring%20Boot%20Application.webp))](https://gitlab.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-appCICD "Pipeline GitLab ECS CRUD Spring Boot App")
+ECR ECS RDS MySQL EFS CI/CD Pipeline GitLab GitLabCI Zero Downtime TechTips CloudComputing DevOps DevOpsTools DevOpsPipeline DevOpsLife bjnandi biswajitnandi Biswajit Nandi](![https://raw.githubusercontent.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app/main/src/main/resources/static/images/Implement%20GitLab%20CICD%20Pipeline%20on%20AWS%20ECS%20with%20RDS%20MySQL%20for%20Java%20Spring%20Boot%20Application.webp]())](https://gitlab.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app "Pipeline GitLab ECS CRUD Spring Boot App")
 
 
+[![Modern web design trends 2024](https://raw.githubusercontent.com/bjnandi/cicd-pipeline-gitlab-ecs-crud-spring-boot-app/main/src/main/resources/static/images/Implement%20GitLab%20CICD%20Pipeline%20on%20AWS%20ECS%20with%20RDS%20MySQL%20for%20Java%20Spring%20Boot%20Application.webp)](https://example.com/web-design-2024 "Read more about modern web design trends for 2024")
+[![Modern web design trends 2024](https://example.com/modern-web-design.png)](https://example.com/web-design-2024 "Read more about modern web design trends for 2024")
 
 
 ## crud-spring-boot-thymeleaf
